@@ -1,4 +1,4 @@
-# ropaparagorditas.com_2015
+# Ropaparagorditas.com_2015
 Tienda en línea de Ropa Tallas Extras
 
 En ésta ocasión, el propietario me solicita hacerme cargo de la contratación de un nuevo Hosting debido a que con el que estaban trabajando,
